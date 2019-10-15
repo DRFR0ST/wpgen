@@ -1,0 +1,15 @@
+{
+  "name": "wpgen",
+  "version": "1.0.0",
+  "description": "Wordpress Generator",
+  "main": "index.js",
+  "author": "Mike Eling <mike.eling97@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
